@@ -1,1 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ThePowerUnited.ThePowerUnited&left_color=green&right_color=red)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/ThePowerUnited/ThePowerUnited/master/demo.png" />
+</div>
