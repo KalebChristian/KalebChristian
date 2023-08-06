@@ -1,12 +1,12 @@
 <div align="center">
   
 ## About
-Hello! I'm PowerUnited. Just a regular developer that's trying to create and learn as much as possible. Im currently a Frontend & Game Developer, as well as a Programmer. Currently learning into Networking.
+Hello! I'm PowerU. Just a regular developer that's trying to create and learn as much as possible. Currently a Full Stack & Game Developer, as well as a Programmer. Currently aiming to be a Cyber Security Engineer.
 
 -------------------
 
 ## Contact
-</a> <a href="https://twitter.com/ThePowerUnited">![Twitter](https://img.shields.io/badge/PowerUnited-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.gg/7ekrHsrz7y">![DiscordServer](https://img.shields.io/discord/587842272167723028?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
+</a> <a href="https://twitter.com">![Twitter](https://img.shields.io/badge/PowerU-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.gg">![DiscordServer](https://img.shields.io/discord/587842272167723028?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
 </a> ![Discord](https://img.shields.io/badge/PowerUnited%234287-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 -------------------
@@ -16,9 +16,9 @@ Hello! I'm PowerUnited. Just a regular developer that's trying to create and lea
   
 -------------------
   
-![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=ThePowerUnited&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=NotPowerU&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=ThePowerUnited&theme=radical&include_all_commits=true&count_private=true)
+![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=NotPowerU&theme=radical&include_all_commits=true&count_private=true)
 
  <div>
 
