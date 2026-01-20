@@ -26,8 +26,8 @@ For More Information Regarding to the Features, Tech Stack and More, Go to My [P
 
 <br/>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KalebChristian&show_icons=true&theme=blueberry&hide_border=false" width="49.5%" height="200px" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KalebChristian&theme=dark&hide_border=false" width="49.5%" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KalebChristian&show_icons=true&theme=blueberry&hide_border=false" width="49.5%" height="195px" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=KalebChristian&theme=dark&hide_border=false" width="49.5%" height="195px" />
 </p>
 <br>
 
