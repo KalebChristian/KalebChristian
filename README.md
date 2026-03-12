@@ -14,7 +14,7 @@
 |---------|-------------|-------|
 | **DiceTopia** | A Growtopia-Themed Online Simulation Exploring Probability and Game Logic | [Explore](https://dicetopia.me) |
 | **Blue Market** | A Prediction Market Platform to Create, Track, and Resolve Personal Events with Friends | [Explore](https://bluemarket.space) |
-| **ModU** | An All-In-One Discord Moderation & Community Management Bot With a Simple Native Dashboard | [Explore](https://top.gg/bot/1452966450724737115) |
+| **ModU** | All-In-One Discord Moderation & Management Bot Used Across 100+ Servers and 2.5K+ Users | [Explore](https://top.gg/bot/1452966450724737115) |
 
 For More Information Regarding to the Features, Tech Stack and More, Go to My [Personal Website](https://KalebChristian.Github.io)
 
@@ -26,7 +26,7 @@ For More Information Regarding to the Features, Tech Stack and More, Go to My [P
 
 <br/>
 <p align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KalebChristian&theme=dark&hide_border=false&mode=weekly" width="49.5%" height="195px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KalebChristian&theme=dark&mode=weekly" />
 </p>
 <br>
 
